@@ -1,0 +1,76 @@
+﻿  util.cpp
+  test.cpp
+c:\users\poane\documents\school\cs260\linkedlist\data.h(38): error C2872: 'data': ambiguous symbol
+  c:\users\poane\documents\school\cs260\linkedlist\data.h(7): note: could be 'data'
+  c:\users\poane\documents\school\cs260\linkedlist\data.h(38): note: or       'data'
+c:\users\poane\documents\school\cs260\linkedlist\data.h(39): error C2872: 'data': ambiguous symbol
+  c:\users\poane\documents\school\cs260\linkedlist\data.h(7): note: could be 'data'
+  c:\users\poane\documents\school\cs260\linkedlist\data.h(39): note: or       'data'
+c:\users\poane\documents\school\cs260\linkedlist\linkedlist.h(22): error C2872: 'data': ambiguous symbol
+  c:\users\poane\documents\school\cs260\linkedlist\data.h(7): note: could be 'data'
+  c:\users\poane\documents\school\cs260\linkedlist\linkedlist.h(22): note: or       'data'
+c:\users\poane\documents\school\cs260\linkedlist\linkedlist.h(27): error C2872: 'data': ambiguous symbol
+  c:\users\poane\documents\school\cs260\linkedlist\data.h(7): note: could be 'data'
+  c:\users\poane\documents\school\cs260\linkedlist\linkedlist.h(27): note: or       'data'
+c:\users\poane\documents\school\cs260\linkedlist\linkedlist.h(36): error C2872: 'data': ambiguous symbol
+  c:\users\poane\documents\school\cs260\linkedlist\data.h(7): note: could be 'data'
+  c:\users\poane\documents\school\cs260\linkedlist\linkedlist.h(36): note: or       'data'
+c:\users\poane\documents\school\cs260\linkedlist\test.cpp(30): error C2872: 'data': ambiguous symbol
+  c:\users\poane\documents\school\cs260\linkedlist\data.h(7): note: could be 'data'
+  c:\users\poane\documents\school\cs260\linkedlist\test.cpp(30): note: or       'data'
+c:\users\poane\documents\school\cs260\linkedlist\test.cpp(31): error C2872: 'data': ambiguous symbol
+  c:\users\poane\documents\school\cs260\linkedlist\data.h(7): note: could be 'data'
+  c:\users\poane\documents\school\cs260\linkedlist\test.cpp(31): note: or       'data'
+  linkedlist.cpp
+c:\users\poane\documents\school\cs260\linkedlist\data.h(38): error C2872: 'data': ambiguous symbol
+  c:\users\poane\documents\school\cs260\linkedlist\data.h(7): note: could be 'data'
+  c:\users\poane\documents\school\cs260\linkedlist\data.h(38): note: or       'data'
+c:\users\poane\documents\school\cs260\linkedlist\data.h(39): error C2872: 'data': ambiguous symbol
+  c:\users\poane\documents\school\cs260\linkedlist\data.h(7): note: could be 'data'
+  c:\users\poane\documents\school\cs260\linkedlist\data.h(39): note: or       'data'
+c:\users\poane\documents\school\cs260\linkedlist\linkedlist.h(22): error C2872: 'data': ambiguous symbol
+  c:\users\poane\documents\school\cs260\linkedlist\data.h(7): note: could be 'data'
+  c:\users\poane\documents\school\cs260\linkedlist\linkedlist.h(22): note: or       'data'
+c:\users\poane\documents\school\cs260\linkedlist\linkedlist.h(27): error C2872: 'data': ambiguous symbol
+  c:\users\poane\documents\school\cs260\linkedlist\data.h(7): note: could be 'data'
+  c:\users\poane\documents\school\cs260\linkedlist\linkedlist.h(27): note: or       'data'
+c:\users\poane\documents\school\cs260\linkedlist\linkedlist.h(36): error C2872: 'data': ambiguous symbol
+  c:\users\poane\documents\school\cs260\linkedlist\data.h(7): note: could be 'data'
+  c:\users\poane\documents\school\cs260\linkedlist\linkedlist.h(36): note: or       'data'
+c:\users\poane\documents\school\cs260\linkedlist\linkedlist.cpp(18): error C2872: 'data': ambiguous symbol
+  c:\users\poane\documents\school\cs260\linkedlist\data.h(7): note: could be 'data'
+  c:\users\poane\documents\school\cs260\linkedlist\linkedlist.cpp(18): note: or       'data'
+c:\users\poane\documents\school\cs260\linkedlist\linkedlist.cpp(147): error C2872: 'data': ambiguous symbol
+  c:\users\poane\documents\school\cs260\linkedlist\data.h(7): note: could be 'data'
+  c:\users\poane\documents\school\cs260\linkedlist\linkedlist.cpp(147): note: or       'data'
+c:\users\poane\documents\school\cs260\linkedlist\linkedlist.cpp(217): error C2872: 'data': ambiguous symbol
+  c:\users\poane\documents\school\cs260\linkedlist\data.h(7): note: could be 'data'
+  c:\users\poane\documents\school\cs260\linkedlist\linkedlist.cpp(217): note: or       'data'
+  data.cpp
+c:\users\poane\documents\school\cs260\linkedlist\data.h(38): error C2872: 'data': ambiguous symbol
+  c:\users\poane\documents\school\cs260\linkedlist\data.h(7): note: could be 'data'
+  c:\users\poane\documents\school\cs260\linkedlist\data.h(38): note: or       'data'
+c:\users\poane\documents\school\cs260\linkedlist\data.h(39): error C2872: 'data': ambiguous symbol
+  c:\users\poane\documents\school\cs260\linkedlist\data.h(7): note: could be 'data'
+  c:\users\poane\documents\school\cs260\linkedlist\data.h(39): note: or       'data'
+c:\users\poane\documents\school\cs260\linkedlist\data.cpp(39): error C2872: 'data': ambiguous symbol
+  c:\users\poane\documents\school\cs260\linkedlist\data.h(7): note: could be 'data'
+  c:\users\poane\documents\school\cs260\linkedlist\data.cpp(39): note: or       'data'
+c:\users\poane\documents\school\cs260\linkedlist\data.cpp(66): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\string.h(119): note: see declaration of 'strcpy'
+c:\users\poane\documents\school\cs260\linkedlist\data.cpp(71): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\string.h(119): note: see declaration of 'strcpy'
+c:\users\poane\documents\school\cs260\linkedlist\data.cpp(97): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\string.h(119): note: see declaration of 'strcpy'
+c:\users\poane\documents\school\cs260\linkedlist\data.cpp(108): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\string.h(119): note: see declaration of 'strcpy'
+c:\users\poane\documents\school\cs260\linkedlist\data.cpp(127): error C2872: 'data': ambiguous symbol
+  c:\users\poane\documents\school\cs260\linkedlist\data.h(7): note: could be 'data'
+  c:\users\poane\documents\school\cs260\linkedlist\data.cpp(127): note: or       'data'
+c:\users\poane\documents\school\cs260\linkedlist\data.cpp(141): error C2872: 'data': ambiguous symbol
+  c:\users\poane\documents\school\cs260\linkedlist\data.h(7): note: could be 'data'
+  c:\users\poane\documents\school\cs260\linkedlist\data.cpp(141): note: or       'data'
+c:\users\poane\documents\school\cs260\linkedlist\data.cpp(156): error C2872: 'data': ambiguous symbol
+  c:\users\poane\documents\school\cs260\linkedlist\data.h(7): note: could be 'data'
+  c:\users\poane\documents\school\cs260\linkedlist\data.cpp(156): note: or       'data'
+  Generating Code...
